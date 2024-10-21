@@ -25,13 +25,13 @@ website:
         href: https://github.com/drwin22/quartro
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, YOUR NAME"
+    left: "&copy; Copyright 2024, @ Dr. Francois Nguyen"
 
 format:
   html:
     theme: superhero
     mainfont: Arial
-    fontsize: 2rem
+    fontsize: 1.7rem
     toc: true
 
 editor: source
