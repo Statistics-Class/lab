@@ -8,12 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd
-      - philosophy.qmd
       - vision.qmd
       - philosophy.qmd
       - services.qmd
+      - innovation.qmd
       - assessment.qmd
+      - impact.qmd
     tools:
       - icon: twitter
         href: https://twitter.com/
@@ -30,6 +30,8 @@ website:
 format:
   html:
     theme: superhero
+    mainfont: Arial
+    fontsize: 2rem
     toc: true
 
 editor: source
